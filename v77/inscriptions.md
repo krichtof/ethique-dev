@@ -1,7 +1,7 @@
 ---
-title: Inscriptions Coaching V-75
-description: Liste pour s'inscrire à la session ma première journée en tant que coach
-image_url: https://github.com/walkingdev/coaching/blob/master/v75/media/banner-coaching.jpg?raw=true
+title: Inscriptions Ethique du développement V-77
+description: Liste pour s'inscrire à la session Ethique du développement
+image_url: https://github.com/krichtof/ethique-dev/blob/master/v77/media/banner-ethique-dev.jpg?raw=true
 ---
 
 #### Inscriptions
@@ -11,7 +11,7 @@ Pour plus d'infos, consulte la [FAQ](http://walkingdev.fr/#walkingdev/coaching/b
 
 * *nom - prénom - moyens de contact *
 * Robillard   - Christophe - christophe@robiweb.net - @krichtof
-* Begeault    - Agathe     - @gayahel
+* Begault     - Agathe     - @gayahel
 * Bossavit    - Laurent    - @morendil
 * Toucheboeuf - Mathilde
 * Benett      - Thomas     - @tbenett_
