@@ -1,7 +1,7 @@
 ---
 title: Inscriptions Ethique du développement V-77
 description: Liste pour s'inscrire à la session Ethique du développement
-image_url: https://github.com/walkingdev/coaching/blob/master/v75/media/banner-coaching.jpg?raw=true
+image_url: https://github.com/krichtof/ethique-dev/blob/master/v77/media/banner-ethique-dev.jpg?raw=true
 ---
 
 #### Inscriptions
